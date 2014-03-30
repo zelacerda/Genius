@@ -9,6 +9,7 @@ The computer then picks another colour, and adds it to the original. Now the pla
 This continues, with the sequence getting longer and longer until the player gets it wrong, at which point
 the game is over.
 
+Teste git
 
 */
 
